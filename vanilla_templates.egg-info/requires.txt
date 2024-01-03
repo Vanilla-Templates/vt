@@ -3,10 +3,11 @@ beautifulsoup4
 blinker
 certifi
 cffi
-charset
+charset-normalizer
 click
 colorama
 Flask
+Flask-Cors
 greenlet
 h11
 idna
