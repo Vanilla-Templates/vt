@@ -20,10 +20,11 @@ outcome
 pandas
 pycparser
 PySocks
-python
+python-dotenv
+python-dateutil
 pytz
 requests
-scikit
+scikit-learn
 selenium
 six
 sniffio
@@ -32,6 +33,7 @@ soupsieve
 SQLAlchemy
 threadpoolctl
 trio
+trio-websocket
 typing_extensions
 tzdata
 urllib3

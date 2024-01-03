@@ -28,10 +28,11 @@ Requires-Dist: outcome
 Requires-Dist: pandas
 Requires-Dist: pycparser
 Requires-Dist: PySocks
-Requires-Dist: python
+Requires-Dist: python-dotenv
+Requires-Dist: python-dateutil
 Requires-Dist: pytz
 Requires-Dist: requests
-Requires-Dist: scikit
+Requires-Dist: scikit-learn
 Requires-Dist: selenium
 Requires-Dist: six
 Requires-Dist: sniffio
@@ -40,6 +41,7 @@ Requires-Dist: soupsieve
 Requires-Dist: SQLAlchemy
 Requires-Dist: threadpoolctl
 Requires-Dist: trio
+Requires-Dist: trio-websocket
 Requires-Dist: typing_extensions
 Requires-Dist: tzdata
 Requires-Dist: urllib3
