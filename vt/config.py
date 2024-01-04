@@ -14,7 +14,8 @@ import os
 
 
 __build_dir__ = "__vt_build__"
-__public_dir__ = "public"
+__cwd__ = os.getcwd()
+__public_dir__ = os.path.join(__cwd__, "public")
 __use_pub_dir__ = False
 __root__ = "."
 __index_files__ = []
