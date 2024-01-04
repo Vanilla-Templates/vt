@@ -1,8 +1,0 @@
-LICENSE
-README.md
-setup.py
-vanilla_templates.egg-info/PKG-INFO
-vanilla_templates.egg-info/SOURCES.txt
-vanilla_templates.egg-info/dependency_links.txt
-vanilla_templates.egg-info/requires.txt
-vanilla_templates.egg-info/top_level.txt
