@@ -1,12 +1,12 @@
 from setuptools import setup
 
 setup(
-    name='vanilla-templates',
+    name='vt',
     version='1.0.0',
     description='A simple template engine and Static Site Generator (SSG) for Python.',
     author='FREDRICKKYEKI',
     author_email='fredrickisaac14@yahoo.com',
-    url='https://github.com/FREDRICKKYEKI',
+    url='https://vanilla-templates.onrender.com/',
     install_requires=[
         'attrs',
         'beautifulsoup4',
